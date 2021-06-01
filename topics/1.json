@@ -1,11 +1,11 @@
 {
-    "title": "UML Use Case",
+    "title": "IDEF0 диаграммы",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "IDEF0 диаграммы",
                     "class": "md-title"
                 }
             ]
@@ -14,81 +14,61 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "А0: "
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/01_A0.png"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
-                    "class": "md-title"
+                    "text": "Декомпозиция А0: "
                 }
             ]
         },
         {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
-                }],
-                [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
-                }],
-                [{
-                    "text": "ссылка на личную страницу записана в списке группы"
-                }]
-            ]
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/02_A0.png"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Основной поток (main flow)",
-                    "class": "md-title"
+                    "text": "Декомпозиция А1: "
                 }
             ]
         },
         {
-            "type": "table",
-            "data": {
-                "columns": [
-                    {
-                        "id": "member",
-                        "name": "Участник"
-                    },
-                    {
-                        "id": "action",
-                        "name": "Действие"
-                    },
-                    {
-                        "id": "result",
-                        "name": "Ожидаемый результат"
-                    }
-                ],
-                "rows": [
-                    {"member": "Студент", "action": "Формирует личную веб-страницу", "result": "Личная веб-страница на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Описывает выбранный прецедент", "result": "Описание прецедента на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Формирует диаграмму Use Case", "result": "Диаграмма прецедента на хостинге <имя>.github.io"}
-                ]
-            }
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/03_A1.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Декомпозиция А2: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/03_A2.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Декомпозиция А3: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/03_A3.png"
         }
     ]
 }
