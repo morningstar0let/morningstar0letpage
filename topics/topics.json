@@ -1,14 +1,20 @@
 [
-    {
+     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "IDEF0 диаграммы",
+        "description": "IDEF0 диаграммы курсового проекта",
+        "preview": "https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Kursovik/01_A0.png?raw=true"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "DFD диаграммы",
+        "description": "DFD диаграммы курсового проекта",
+        "preview": "https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Kursovik/06_A33.png?raw=true"
+    },
+    {
+        "id": 3,
+        "title": "UML диаграммы",
+        "description": "UML диаграммы курсового проекта",
+        "preview": "https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Kursovik/Uml11.png?raw=true"
     }
 ]
