@@ -1,6 +1,38 @@
 {
-    "title": "UML Class",
+    "title": "DFD диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "DFD диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А33: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/06_A31.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А42: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/06_A33.png"
+        }
     ]
 }
